@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized худи «РУК»",
+    "price": 4500,
+    "image": "/img/1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Детская толстовка Z",
+    "price": 3200,
+    "image": "/img/2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Джоггеры свободного кроя",
+    "price": 3900,
+    "image": "/img/3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Белая кофта с капюшоном",
+    "price": 4100,
+    "image": "/img/4.png"
+  }
+]
