@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized худи «РУК»",
+    "category": "Женская одежда",
+    "price": 4500,
+    "image": "https://dlstudio.store/_next/image?url=%2Fimages%2Fruk.jpg&w=1080&q=75",
+    "description": "Объемное худи «РУК» из плотного хлопка, унисекс. Ограниченный тираж."
+  },
+  {
+    "id": 2,
+    "name": "Детская толстовка Z",
+    "category": "Детская одежда",
+    "price": 3200,
+    "image": "https://dlstudio.store/_next/image?url=%2Fimages%2Fkids-z.jpg&w=1080&q=75",
+    "description": "Толстовка для детей с принтом Z. Удобная и стильная."
+  },
+  {
+    "id": 3,
+    "name": "Джоггеры свободного кроя",
+    "category": "Женская одежда",
+    "price": 3900,
+    "image": "https://dlstudio.store/_next/image?url=%2Fimages%2Fjoggers.jpg&w=1080&q=75",
+    "description": "Комфортные джоггеры для повседневной носки. Свободный крой, универсальный стиль."
+  }
+]

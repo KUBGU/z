@@ -1,0 +1,1 @@
+// FilterSidebar.jsx - placeholder content
